@@ -1,0 +1,6 @@
+{
+  "name": "Mahediworkplace",
+  "description": "An offline-first, multitasking personal and business operating system with global search, keyboard commands, and persistent local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
